@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Depth Wallpaper</string>
+    <string name="wallpaper_description">Live wallpaper with an iOS-style depth parallax effect</string>
+    <string name="pick_photo">Choose Photo</string>
+    <string name="set_wallpaper">Set as Wallpaper</string>
+    <string name="processing">Processing subject…</string>
+    <string name="ready">Ready — tap Set as Wallpaper</string>
+</resources>
